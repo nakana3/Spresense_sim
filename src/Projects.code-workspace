@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../PlatformIO/Projects"
+		},
+		{
+			"name": "Spresense_servo",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
