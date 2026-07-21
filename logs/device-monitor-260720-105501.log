@@ -1,0 +1,26 @@
+Spresense LTE remote servo controller
+Safety: ARM required; 6-second timeout; center then PWM off.
+Servo signal D9: 1350 / 1500 / 1650 us at 50 Hz.
+Starting LTE modem...
+LTE begin status: 3
+Attaching to APN: vmobile.jp
+LTE attach status: 4
+LTE ready. IP address: 100.80.55.224
+Setting clock from LTE network...
+RTC is ready for TLS certificate verification.
+Connecting securely to MQTT broker: 1cf3c87a31e44adebe3866c0b79f83bb.s1.eu.hivemq.cloud
+MQTT connected. Command topic: spresense/ft5335m-01/command
+State: {"state":"online","armed":false,"position":"stopped","pulse_us":0}
+Spresense LTE remote servo controller
+Safety: ARM required; 6-second timeout; center then PWM off.
+Servo signal D9: 1350 / 1500 / 1650 us at 50 Hz.
+Starting LTE modem...
+LTE begin status: 3
+Attaching to APN: vmobile.jp
+LTE attach status: 4
+LTE ready. IP address: 100.64.203.6
+Setting clock from LTE network...
+RTC is ready for TLS certificate verification.
+Connecting securely to MQTT broker: 1cf3c87a31e44adebe3866c0b79f83bb.s1.eu.hivemq.cloud
+MQTT connected. Command topic: spresense/ft5335m-01/command
+State: {"state":"online","armed":false,"position":"stopped","pulse_us":0}
